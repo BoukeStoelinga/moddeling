@@ -1,2 +1,2 @@
 # moddeling
-![sim1](gifs/sim1.gif)
+![sim1](animations/sim1.gif)
